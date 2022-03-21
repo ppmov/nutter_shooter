@@ -1,2 +1,2 @@
-# nutter_shooter
-Simple top-down mobile shooter
+# Nutter Shooter
+Simple top-down mobile shooter, developed as test task for job interview.
